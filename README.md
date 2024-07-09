@@ -6,12 +6,6 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk3Y2Z3NTZtY3Z2NHQ0OTR3cWNmdGxhNDd6OGVuYnR2Ymh5aHEyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6prNKZT3vv7W/giphy.gif"  />
-</div>
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
@@ -43,8 +37,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernando2k96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando2k96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fernando2k96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando2k96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernando2k96&radius=16&theme=redical&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
 
