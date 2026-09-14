@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">-Cursando Análise e Desenvolvimento de Sistemas<br>-Estudando (Front End)</p>
+<p align="left">-Análise e Desenvolvimento de sistemas | Infraestrutura | Helpdesk | SQL </p>
 
 ###
 
